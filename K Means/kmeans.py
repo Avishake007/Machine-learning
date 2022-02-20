@@ -7,6 +7,8 @@ c2x=X[1]
 c2y=Y[1]
 c1=[]
 c2=[]
+
+
 c1.append(1)
 c2.append(2)
 for k in range(2,12):
